@@ -1,0 +1,3 @@
+#!/bin/bash
+
+singularity shell --bind "$PWD,/nethome/farmerr2,/hpcdata/vrc/vrc1_data/douek_lab/farmerr2/r-libs,/sysapps/cluster/software/Anaconda3/2020.07/bin/python3" /hpcdata/vrc/vrc1_data/douek_lab/farmerr2/containers/r-4.3.1.sif

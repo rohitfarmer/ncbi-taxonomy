@@ -8,6 +8,11 @@
 
 # User-specific files
 .Ruserdata
+data
+results
+figures
+backup
+nvim
 
 # Example code in package build process
 *-Ex.R
